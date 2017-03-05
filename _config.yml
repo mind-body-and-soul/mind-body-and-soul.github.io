@@ -11,8 +11,8 @@ email: your-email@domain.com
 description: "Cutie Diaper Gifts. Find the perfect diaper gift for a friend's or a loved one's baby shower, first birthday or for the heck of it!"
 baseurl: # subpath of your blog.
 url: "http://cutiediapergifts.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-
+twitter_username: @CutieDiaperGift
+github_username:  mind-body-and-soul
+facebook_username:@CakeswithDiapers
 # Build settings
 markdown: kramdown
